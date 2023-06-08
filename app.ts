@@ -1,4 +1,3 @@
-// Fuly Typescript
 import express, { Application, Response, Request } from "express";
 import mongoose, { Schema, model, Document } from "mongoose";
 import cors from "cors";
